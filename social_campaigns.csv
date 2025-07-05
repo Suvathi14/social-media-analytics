@@ -1,0 +1,1001 @@
+campaign_id,post_id,brand_name,sponsored
+1,16647,"Harding, Thomas and Davis",True
+2,2268,"Fernandez, Castro and Ferguson",False
+3,1456,Roth PLC,True
+4,26946,"Mora, Mora and Harrington",True
+5,36086,"Wood, Mcdaniel and Arroyo",True
+6,48398,Wall-Reed,False
+7,29470,Nicholson PLC,False
+8,47906,Keller-Anderson,False
+9,11154,Huang-Brown,True
+10,38763,"Smith, Velez and Johnson",True
+11,38008,"Payne, Rodriguez and Townsend",False
+12,19156,Nelson-Rodriguez,False
+13,29373,Pearson-Williams,True
+14,39444,"Davis, Walker and Taylor",True
+15,4135,Griffin Ltd,True
+16,21545,Wheeler PLC,True
+17,36826,"Farmer, Aguirre and Daniel",True
+18,22577,Scott-Clements,True
+19,7590,Petty Group,False
+20,10161,"Hughes, Johnson and Cruz",True
+21,40917,"Price, Soto and Dixon",True
+22,29542,Scott Ltd,True
+23,37601,Edwards-Turner,True
+24,6777,Smith-Hurst,True
+25,22931,"Snyder, Brown and Collins",False
+26,27135,Rodriguez-Jackson,False
+27,4651,"Montgomery, Saunders and Tucker",True
+28,10948,Rodriguez Group,False
+29,48537,"Simmons, Miller and Rogers",True
+30,6081,"Palmer, Hall and Hill",True
+31,40877,"Williams, Ibarra and Harmon",True
+32,31079,Wood and Sons,False
+33,48202,Jackson-Marquez,True
+34,7783,Malone and Sons,True
+35,30660,Spencer Ltd,True
+36,8489,Lopez Group,True
+37,44218,"Collins, Larson and Wheeler",True
+38,14962,"Williams, Smith and Fitzpatrick",True
+39,20539,Duffy and Sons,True
+40,44879,"Adams, Brown and Garcia",False
+41,38598,"Simpson, Gates and Green",True
+42,35726,"Green, Ramsey and Tucker",True
+43,15982,"Fuller, Andrews and Diaz",True
+44,21476,Pierce-Todd,True
+45,47899,"Everett, Moon and Patel",True
+46,32222,Kaiser Group,False
+47,31823,"Miller, Pratt and Baker",True
+48,12429,Daniels PLC,True
+49,46547,Vargas PLC,True
+50,26176,"Kelley, Lyons and Lane",False
+51,25188,"Haley, Larson and Banks",True
+52,21896,Webb Inc,True
+53,31575,"Smith, Krueger and Brooks",True
+54,45085,Huynh Ltd,True
+55,88,West-Chan,False
+56,26337,Curry-Walker,True
+57,42299,"Contreras, Green and Kennedy",True
+58,4594,"Hunter, Garrison and Miller",True
+59,10331,Leonard-Robinson,False
+60,19288,"Wilson, Cox and Smith",False
+61,47522,Davidson-Collins,True
+62,46866,"Barnett, Moore and Anderson",True
+63,11451,Fisher-Hull,True
+64,47186,Mills LLC,True
+65,4399,"Summers, Thomas and Morgan",True
+66,19580,"Ray, Lynn and Mitchell",True
+67,33268,Neal Ltd,True
+68,49559,"Smith, Hernandez and Fields",True
+69,22039,"Good, Greer and Hall",True
+70,18991,"Greene, Davis and Griffith",True
+71,19494,Lin-Johnson,True
+72,5853,Taylor-Hill,True
+73,2777,Hull LLC,True
+74,10451,Barry-Lopez,True
+75,25170,Stone-Phelps,False
+76,38972,"Mccormick, Flores and Weber",True
+77,847,Murphy Group,True
+78,20919,"Stanley, Spencer and Brooks",False
+79,12420,"Stewart, Meza and Freeman",True
+80,26099,Nelson PLC,True
+81,42068,Mejia PLC,True
+82,25782,"Harrison, Baker and Smith",True
+83,29218,Fischer Group,False
+84,28035,"Coleman, Graham and Johnson",True
+85,17632,Phillips-Ortega,False
+86,8993,"Young, Le and Smith",True
+87,29049,"Roberts, Morgan and Berger",True
+88,36820,Navarro LLC,True
+89,3547,Mcneil Group,True
+90,45936,Harrison-Foley,True
+91,31554,Miller-Hernandez,True
+92,38881,Guerra-Newman,False
+93,10186,"Finley, Hayes and Reyes",True
+94,9367,Salazar-Small,False
+95,37287,Miller PLC,True
+96,27548,Allen-Martin,True
+97,12118,Ingram-Moore,True
+98,28677,Gonzales Group,True
+99,15608,Johnson Group,True
+100,39609,Wilson Ltd,True
+101,2135,Deleon Ltd,True
+102,35051,Craig Group,False
+103,32928,"Grant, Sosa and Griffin",True
+104,23090,Oneal and Sons,True
+105,5092,"Robbins, Anderson and Garcia",True
+106,33708,Duncan-Rogers,True
+107,1767,Scott-Chan,False
+108,12419,Weiss Group,True
+109,39862,Morris Inc,False
+110,26557,Macias Inc,False
+111,17293,Sparks-Sharp,False
+112,16435,Williams-Johnson,True
+113,12518,"Bailey, Wells and Adams",True
+114,44202,Hammond Ltd,True
+115,33533,Hines PLC,False
+116,47520,Higgins-Smith,True
+117,8721,Ochoa Inc,True
+118,4326,Wood Inc,True
+119,41330,"Cruz, Ferguson and Chan",True
+120,12489,"Savage, Todd and Maddox",True
+121,24958,Smith Ltd,True
+122,20954,Baker-Pacheco,False
+123,37124,"Hernandez, Larsen and Garcia",True
+124,3926,Green PLC,False
+125,44515,Schultz LLC,False
+126,17576,"Hill, Lopez and Conrad",False
+127,4182,Montes LLC,True
+128,33957,Payne Inc,True
+129,5892,Chan and Sons,True
+130,45281,Johnson-Castillo,True
+131,22014,Riddle Group,False
+132,21530,Norris Group,True
+133,28739,Vazquez-Rodgers,False
+134,48411,Martinez Inc,True
+135,48374,Fowler Inc,True
+136,24047,"Ortiz, Allen and Mendoza",True
+137,14727,Hammond Ltd,True
+138,41817,Franklin LLC,True
+139,2623,Bean PLC,True
+140,47500,Anderson-Johnson,True
+141,29353,Hall Inc,True
+142,20180,"Smith, Eaton and Hall",True
+143,49804,Johnson-Adams,False
+144,5297,Daniels-Hahn,False
+145,4841,Gonzalez-Figueroa,True
+146,2932,Park-Nash,False
+147,45828,"Walters, Coleman and Stewart",False
+148,47573,"Reynolds, Figueroa and Powers",False
+149,23545,"George, Black and Melendez",True
+150,41592,Cummings-Davis,True
+151,6456,"Martinez, Ramos and Wright",True
+152,30048,Sullivan-Patterson,True
+153,10740,Carlson-Norman,True
+154,30434,Moore-Flores,True
+155,35556,Baker-Wilson,True
+156,38506,Clark-Bennett,True
+157,11180,Orr-Rose,True
+158,42220,Williams-Torres,True
+159,22614,"Johnston, Smith and Jones",True
+160,29149,Miller-Stafford,True
+161,24421,Deleon-Coleman,True
+162,8342,"Stevens, Mckay and Daniels",True
+163,48859,"Park, Phillips and Reyes",True
+164,28366,"Obrien, Rowland and Brown",True
+165,4874,Mitchell Ltd,True
+166,18569,Joseph Ltd,True
+167,40326,Sawyer-Wood,True
+168,18609,"Johnson, Clark and Tate",True
+169,11939,Pennington PLC,True
+170,2254,Moreno PLC,True
+171,26807,"White, Cox and Lee",False
+172,37160,"Mcconnell, Perez and Walton",True
+173,26901,Moreno-Contreras,False
+174,42713,"Saunders, Cantu and Willis",True
+175,36662,Buck-Jackson,True
+176,12257,Baker Inc,True
+177,34203,Cooley and Sons,True
+178,48957,Allen-Nelson,True
+179,7690,Hill LLC,False
+180,6300,Chen-Smith,True
+181,36239,Mercado-Todd,True
+182,7338,Horn Ltd,True
+183,40070,Choi LLC,True
+184,47720,"Gray, Patton and Calhoun",True
+185,43556,Dalton-Strickland,True
+186,27847,Jenkins-Martinez,False
+187,30013,"Lee, Bell and Williams",True
+188,36378,"Robinson, Powell and Potts",False
+189,19704,Riley PLC,True
+190,12374,Mcmillan-Cox,True
+191,27141,Gordon-Christensen,True
+192,32104,"Vasquez, Sawyer and Garcia",True
+193,18850,Decker-Chan,True
+194,13084,Rodriguez-Barton,False
+195,10503,"Larson, Collins and Hess",False
+196,48135,Smith PLC,False
+197,12101,Munoz-Smith,True
+198,26675,Miller-Mcpherson,False
+199,45755,"Allen, Russell and Thomas",False
+200,48425,Cruz-Simmons,True
+201,42253,Mathis Inc,True
+202,43692,Davis Group,False
+203,16512,Diaz-Nunez,True
+204,26033,"Wagner, Schmidt and Hess",True
+205,41510,"Sanchez, Griffin and Walker",True
+206,24333,Rodriguez Ltd,True
+207,20352,Sullivan Inc,True
+208,4854,Smith PLC,True
+209,16566,Silva-Walker,True
+210,9339,Price and Sons,True
+211,25025,Murphy-Gomez,True
+212,15469,"Richardson, Brown and Baird",True
+213,15929,"Anderson, Brewer and Fisher",False
+214,39685,Williams-Stafford,True
+215,9788,Martinez Ltd,True
+216,13728,"Bowen, Briggs and Norris",True
+217,41899,Carroll-Goodman,True
+218,8711,"Ramsey, Johnson and Nguyen",False
+219,14279,"Ingram, Hill and Wilson",True
+220,36551,"Clark, Jones and Smith",False
+221,47243,Heath-Cooper,True
+222,21332,Stewart and Sons,True
+223,17279,"Payne, Walker and Myers",False
+224,35752,Levy-Ramsey,True
+225,35118,"Kelley, Duarte and Harvey",True
+226,31447,"Scott, Rowe and Johnson",True
+227,3170,Hunt-Herring,True
+228,39815,Stevens LLC,True
+229,40787,Grimes-Rodriguez,False
+230,11565,"Cook, Martin and Brooks",False
+231,25221,Adams and Sons,True
+232,3842,Bell-Cummings,True
+233,7559,Huynh-Campos,True
+234,13455,Beasley LLC,False
+235,12152,Jones-Barton,True
+236,42991,"Brennan, Jones and Fleming",True
+237,45877,Shah Group,False
+238,38666,"Mathis, Jones and Castro",True
+239,41662,"Mitchell, Best and Vazquez",False
+240,17449,"Farrell, Calderon and Alexander",True
+241,32559,"Huffman, Green and Ortiz",True
+242,42542,Smith-Evans,False
+243,28192,Simpson-Solis,True
+244,15781,"Rogers, Miller and Mcintyre",True
+245,15944,"Casey, Castillo and Martinez",False
+246,2662,Thompson-Fleming,True
+247,40583,"Brewer, Nelson and Sanford",True
+248,27940,Schultz Group,True
+249,17727,"Phillips, Edwards and Davis",True
+250,39257,"Braun, Buchanan and Cox",True
+251,5306,"Phelps, Moore and Spencer",True
+252,22043,Rodriguez-Meyer,True
+253,42987,White-Shelton,True
+254,27807,Anderson Group,True
+255,11367,"Bean, Mcdaniel and Bowen",True
+256,14104,Ortiz Group,True
+257,18132,"Rogers, Moore and Reed",True
+258,19304,Blair Ltd,True
+259,28450,Martinez-Walker,True
+260,26311,Stevens-Padilla,False
+261,17822,Atkinson Inc,False
+262,15394,"Anderson, Byrd and Johnson",True
+263,1005,Wheeler-Skinner,True
+264,4196,"Reese, Griffin and Delgado",True
+265,45777,Miranda Group,True
+266,25882,Mercado Ltd,True
+267,22171,Roberts Ltd,True
+268,330,Hodges Group,True
+269,11940,Gonzalez Inc,True
+270,11549,"Thomas, Holmes and Bailey",True
+271,46638,"Wallace, Howard and Warren",True
+272,28691,"Hoffman, Kelly and Kelly",True
+273,10060,"Moore, Skinner and Mcbride",False
+274,29015,"Walter, Silva and Rodriguez",False
+275,24144,"Rios, Hunt and Morales",True
+276,32385,Watson-Hall,True
+277,24159,Allen LLC,True
+278,31468,"Le, Thompson and Hunter",True
+279,8477,Smith-Combs,True
+280,14770,Welch-Smith,True
+281,11722,Joyce-Roman,True
+282,9237,"James, Williams and Williams",True
+283,16965,Stanley-Hernandez,True
+284,6368,Smith LLC,False
+285,16983,"Cannon, Garcia and Willis",True
+286,32577,"Sims, Barr and Robinson",True
+287,20452,"Hughes, Paul and Henry",True
+288,11886,Rodriguez LLC,True
+289,26670,Dominguez-Myers,True
+290,4363,Dyer-Williams,False
+291,68,Rodriguez Inc,False
+292,2844,Adams PLC,False
+293,24696,"Holmes, Gardner and Wright",True
+294,4984,"Carter, Martinez and Sexton",True
+295,26762,Sandoval LLC,True
+296,25373,Hernandez Inc,True
+297,34037,Medina LLC,False
+298,983,Lloyd LLC,True
+299,41702,"Velazquez, Wilkinson and Stevens",True
+300,49987,Kelly-Byrd,False
+301,11222,"Hess, Fry and Ward",True
+302,19315,Wilkins LLC,False
+303,5118,Stewart LLC,False
+304,20521,"Gibbs, Howard and Morris",True
+305,9973,Thompson-Carson,True
+306,8330,Wheeler PLC,True
+307,8284,"Fisher, Garcia and Mccall",True
+308,21337,Jackson-Hoffman,True
+309,10810,Black Group,True
+310,48845,Martin Group,True
+311,11806,Adams PLC,True
+312,27362,Anderson-Benitez,True
+313,42058,"Perez, Reynolds and West",True
+314,15922,Dunn Ltd,True
+315,13135,"Black, Holmes and Norris",True
+316,40405,Miller-Smith,False
+317,4125,Jackson-White,True
+318,4557,"Flowers, Lynch and Greene",True
+319,14163,Logan Group,True
+320,49209,Weber-Scott,True
+321,666,Snow-Horn,True
+322,41656,James-Hernandez,False
+323,7967,Sanford-Watson,True
+324,16760,Maynard PLC,True
+325,30579,Wilson-Benson,True
+326,16007,Wilson PLC,True
+327,36133,"Reed, Parks and Patton",True
+328,44918,Morgan Ltd,True
+329,35901,"Horton, Lopez and Mckay",True
+330,14860,Duran-Armstrong,True
+331,47779,Bailey-Estrada,True
+332,1325,"Carter, Fritz and Cruz",True
+333,3715,Hudson-Jackson,False
+334,10863,"Jordan, Bender and Martinez",True
+335,36971,"Harris, Ball and Hughes",False
+336,21483,Monroe Ltd,True
+337,27819,"Steele, Brady and Diaz",True
+338,9543,"Smith, Nelson and Huynh",True
+339,25521,Brown-Orozco,True
+340,2029,"Griffin, Martin and Mills",True
+341,23221,Williams-Martinez,True
+342,23618,Mcdonald-Padilla,True
+343,21719,Glenn-Contreras,False
+344,33450,"Hill, Howard and Williams",True
+345,323,Trevino Ltd,True
+346,475,"Hardin, Mills and Clark",False
+347,28346,"Wilkins, Reese and Murphy",True
+348,32647,"Weber, Bowman and Kirk",True
+349,21396,"Brown, Rowe and Burton",False
+350,6888,"Smith, Chambers and Adams",False
+351,42781,Johnson-Mack,True
+352,20277,Hernandez Ltd,True
+353,11158,Phelps and Sons,True
+354,17458,Wells Inc,True
+355,24751,"Perez, Spencer and Pratt",True
+356,7032,Day-Reese,True
+357,40904,Hall Ltd,True
+358,40468,Juarez-Greene,True
+359,47237,Blake Ltd,False
+360,6276,Wolf-Young,True
+361,24970,"Murphy, Butler and Black",True
+362,32471,Burton-Lopez,True
+363,12308,"Hubbard, Peterson and Mahoney",True
+364,2747,King-Francis,True
+365,19433,Ortega Ltd,True
+366,499,Hansen and Sons,True
+367,42998,"Harrell, Conrad and Brown",False
+368,22480,Henderson Ltd,True
+369,42390,"Wright, Holmes and Gomez",True
+370,22665,Foster-Avery,True
+371,19105,Edwards Inc,True
+372,35309,Howell LLC,True
+373,12796,"Reid, Day and Williams",True
+374,8337,"Cortez, Torres and Harvey",True
+375,43250,"Jones, Hudson and Chandler",True
+376,1893,"Koch, Smith and Kent",False
+377,48701,Carter-Austin,True
+378,19246,Lee LLC,True
+379,28794,King-Esparza,True
+380,47147,Edwards and Sons,True
+381,2848,"Brown, Hartman and Fitzgerald",True
+382,41590,"Davis, Nguyen and Rodriguez",False
+383,46879,Harrell Group,True
+384,35787,"Hill, Johnson and Harper",False
+385,6865,Peters Group,True
+386,34642,Morris-Hinton,False
+387,24157,"Fuller, Sanders and Daniels",False
+388,11254,Long Group,True
+389,36366,Carrillo-Gonzalez,True
+390,44949,Cole-Black,False
+391,45923,Williams-Woods,True
+392,18136,"Gonzales, Wall and Roy",True
+393,10191,Hines Inc,True
+394,31383,"Phillips, Jones and Ellis",True
+395,119,Cook-Decker,True
+396,25371,Barrera-Mclaughlin,True
+397,38242,"Wilson, Barnes and Garcia",False
+398,28178,Santos Ltd,True
+399,34127,Carter-Lopez,True
+400,12194,Carpenter Inc,True
+401,23969,Gonzalez-Howard,False
+402,35846,Craig Group,True
+403,8120,Meza Group,True
+404,26124,Fields Inc,True
+405,9521,Fowler and Sons,True
+406,22007,"Chan, Mitchell and White",True
+407,1613,Carr Ltd,False
+408,10725,Miller-Ponce,False
+409,12608,Hall PLC,True
+410,9402,Thompson-Perkins,True
+411,7282,Rosales PLC,True
+412,48102,"Cummings, Munoz and Hall",True
+413,8908,"Melendez, Castaneda and Hoover",True
+414,9813,Hunt-Taylor,True
+415,26873,"Walsh, Clark and Jones",True
+416,12261,Jackson LLC,False
+417,8517,Velez Inc,True
+418,47015,Little Ltd,True
+419,3197,Anderson LLC,True
+420,5802,"Holt, Butler and Clark",False
+421,25198,"Crane, Rogers and Adkins",True
+422,7778,White-Rodriguez,False
+423,18337,Wood-Terry,True
+424,39467,"Dillon, Jones and Patel",True
+425,16331,Williams and Sons,True
+426,42227,Adkins LLC,True
+427,41474,Harrington Inc,True
+428,6036,King Ltd,True
+429,275,Nichols LLC,True
+430,46580,Mack-Erickson,True
+431,8179,Dixon Inc,True
+432,13819,Mosley-Dyer,True
+433,14379,Mccullough-Choi,True
+434,23223,Cook Ltd,True
+435,38833,"Cox, Burton and Hawkins",False
+436,12709,Baker-Thomas,True
+437,45167,Myers-Johnson,True
+438,25532,Todd and Sons,True
+439,6780,Burnett and Sons,False
+440,46152,Rodriguez-Garcia,True
+441,17269,Hernandez-Hart,True
+442,14344,Hill-Robinson,False
+443,31863,Campos-Robinson,True
+444,23031,Forbes PLC,True
+445,35734,Fox Inc,False
+446,35159,Mccormick and Sons,True
+447,10828,Mays and Sons,True
+448,7407,Thomas Group,True
+449,38402,Watkins and Sons,False
+450,43488,Smith Inc,True
+451,9131,Austin-Hughes,True
+452,7888,Griffin-Atkinson,False
+453,13583,"Flores, Rice and Johnson",True
+454,37559,"Reese, Vega and Figueroa",True
+455,24952,Baker-Jones,True
+456,5910,Owens Group,True
+457,41809,Cortez Inc,False
+458,1384,"Haas, Stokes and Carlson",True
+459,31954,Sullivan-Moore,False
+460,22595,"Jones, Whitaker and Murray",True
+461,30762,"Lopez, Hicks and Hammond",True
+462,14669,Hill Inc,True
+463,39751,Hamilton-Cooper,True
+464,3174,Jordan and Sons,False
+465,30748,"Miller, Lewis and Bailey",False
+466,29408,Moore Inc,True
+467,26923,"Moreno, Brown and Richards",True
+468,20430,"Juarez, Hartman and Baker",True
+469,22074,Robles-Russell,False
+470,3621,Torres PLC,False
+471,2417,"Anderson, Gomez and Gonzalez",True
+472,5320,Brown Inc,True
+473,46138,Golden-Anderson,True
+474,41859,"Lowe, Elliott and Cruz",False
+475,24381,Smith LLC,False
+476,29602,Mitchell Ltd,True
+477,45074,Richardson LLC,True
+478,2157,Oliver-Bush,False
+479,16086,Montoya-Jones,True
+480,31234,"Flores, Neal and Smith",True
+481,42256,Gamble PLC,True
+482,46872,Robertson and Sons,True
+483,985,Shah Group,True
+484,49185,Adams Inc,True
+485,26374,Bradford LLC,True
+486,43147,Martinez-Allen,False
+487,46565,"Gregory, Nelson and Salazar",True
+488,17903,"Lewis, Barnes and Lewis",True
+489,13501,Wells Group,True
+490,21994,"Swanson, Miller and Alvarez",True
+491,18071,Rodriguez Ltd,True
+492,15812,Davis Inc,True
+493,12619,"Ali, Powers and Wheeler",True
+494,4720,"Jensen, Estrada and Jenkins",True
+495,35940,"Orr, Melendez and Mckay",False
+496,13712,"Beard, Green and Parks",True
+497,18698,Jimenez Group,True
+498,7587,Medina Ltd,True
+499,19919,Nelson Ltd,True
+500,12210,Cabrera Group,True
+501,16591,"Clark, Hill and Brown",True
+502,23361,Ross-Robinson,False
+503,2633,Hall and Sons,True
+504,16215,Townsend and Sons,True
+505,48340,Jones-Stanton,False
+506,19860,"Carter, Bowman and Carpenter",True
+507,775,"Cain, Watson and Conway",True
+508,4882,Santos-Rose,True
+509,1176,Martinez and Sons,True
+510,37011,Duran-Jimenez,True
+511,40649,"Brooks, Molina and Rodriguez",True
+512,30376,"Butler, Conway and Mata",False
+513,12545,"Vincent, Bowman and Bishop",False
+514,24626,Fowler-Campbell,True
+515,36925,"Rowe, Daniel and Chung",False
+516,13670,Wilson Ltd,True
+517,10440,Santana-Lawrence,False
+518,15529,Wright Inc,True
+519,29843,"Fields, Owens and Zamora",True
+520,43308,Bird and Sons,True
+521,37419,Camacho and Sons,True
+522,17462,Morgan Group,True
+523,21926,Miller-Murray,True
+524,38950,Bell Ltd,True
+525,32773,Rasmussen Group,True
+526,10344,Buchanan-Allen,True
+527,3862,Dodson Group,True
+528,3650,"Maldonado, Brady and Mcclure",True
+529,2200,"Navarro, Burton and Gonzales",True
+530,12740,Parker and Sons,True
+531,22281,Rios-Camacho,True
+532,11332,Miller PLC,False
+533,38224,Cole Inc,True
+534,28973,Glover and Sons,True
+535,18174,"Bennett, Bruce and Porter",True
+536,7296,Beard-Allison,True
+537,25662,"Williamson, Johnson and Sanders",True
+538,17460,"Johnson, Jenkins and Collier",True
+539,18452,Campbell-Brown,True
+540,19854,Daniel-Bentley,True
+541,30575,"Jordan, Pearson and Jimenez",True
+542,24341,Lucas-Maddox,True
+543,28151,Alexander-Williams,False
+544,6108,Tyler-Smith,True
+545,44725,"Randolph, Thompson and Byrd",False
+546,23497,Johnson LLC,True
+547,8826,Jones PLC,True
+548,1575,Bentley Inc,True
+549,44212,"Hunter, Martin and May",False
+550,27609,"Small, Robinson and Edwards",True
+551,47316,Morgan-Berg,True
+552,4224,"Navarro, West and White",True
+553,15942,Day and Sons,True
+554,27137,"Young, Rivera and Carroll",False
+555,34272,Coleman-Wolfe,True
+556,2511,"Charles, Brown and Fletcher",True
+557,13049,"Gill, Hunt and Choi",True
+558,47661,Cole-Leon,True
+559,13328,Rogers-Holmes,True
+560,29374,"Moore, Walton and Williams",True
+561,38837,"Chan, Michael and Roy",False
+562,9937,"Bowen, Marshall and Williams",False
+563,28213,"Hurley, Martin and Owens",True
+564,21916,Cox PLC,True
+565,33595,Perkins-Griffin,False
+566,25751,"Robertson, Jensen and Wallace",True
+567,2432,Jenkins-Gates,True
+568,33534,Aguirre Ltd,True
+569,1618,Turner-Ryan,True
+570,18309,Sanchez-Sweeney,True
+571,22633,"Shaw, Schultz and Cox",True
+572,30616,Tucker PLC,True
+573,26511,Fox-Carroll,True
+574,25312,"Jones, Lewis and Stokes",True
+575,7260,Terry Group,True
+576,2251,Wells and Sons,True
+577,17055,"Tucker, Miller and Bradshaw",True
+578,24812,Jones-Wong,True
+579,24113,Waters LLC,True
+580,24555,"Williams, Fischer and White",True
+581,43003,"Warren, Smith and Gonzalez",True
+582,36510,"Perez, Duffy and Erickson",True
+583,40057,Williams-Vasquez,True
+584,1591,Rodgers-Davis,True
+585,8665,Farley-Moore,True
+586,7374,Watson-Fernandez,True
+587,4199,Juarez and Sons,True
+588,23244,Phelps Ltd,False
+589,12288,Vasquez-Manning,True
+590,37770,Hurst-Wood,True
+591,23036,"Martin, Pearson and Chavez",True
+592,37236,Jackson-Simpson,True
+593,21023,White-Green,True
+594,43441,Hudson LLC,True
+595,407,Clark-Walker,True
+596,45747,"Wood, Lane and Myers",False
+597,2448,"Kennedy, Kemp and Barker",True
+598,39153,Jensen Inc,True
+599,16141,Gregory Ltd,True
+600,18966,"Shea, Adams and Gonzalez",True
+601,32574,Gomez-Boone,True
+602,33352,"Hardy, Bishop and Sanchez",True
+603,9781,"Gillespie, Munoz and Reynolds",True
+604,35656,"White, Garcia and Jackson",True
+605,48841,"Jordan, Arnold and Peterson",True
+606,24328,"Nichols, Clark and Ellis",True
+607,19553,"Gomez, Kelley and Williams",False
+608,2349,"Patterson, Johnson and Powers",False
+609,15666,Perry Ltd,True
+610,14440,Carson-Yoder,True
+611,4060,"Orr, Golden and Scott",True
+612,22331,"Miller, Aguilar and Flores",False
+613,45293,Andrews Ltd,True
+614,21343,Gomez Inc,True
+615,17109,Diaz-Cline,True
+616,15679,"Ryan, Weeks and Gaines",False
+617,4398,Sanchez-Hutchinson,True
+618,48486,"Taylor, Hughes and Kelly",True
+619,31010,"Salinas, Ingram and Wheeler",True
+620,43645,"Espinoza, Lynch and Haney",True
+621,47225,Colon and Sons,True
+622,15083,"Holland, Jefferson and Martinez",True
+623,30481,"Kelly, Sanchez and Fischer",True
+624,40907,Hopkins LLC,False
+625,44650,Coleman Group,True
+626,25072,"Gomez, Roth and Noble",True
+627,35339,Jones LLC,False
+628,928,Morgan-Case,False
+629,39294,Lester-Gilbert,True
+630,9621,"Holmes, Barnes and Carter",True
+631,26664,"Torres, Decker and Foster",True
+632,47298,Adams and Sons,True
+633,45774,"Lara, Phillips and Gonzalez",True
+634,1906,Smith-King,True
+635,47047,Santana Group,True
+636,7322,Gomez PLC,True
+637,41689,Walton-Garcia,True
+638,27435,"Johnson, Oconnell and Hill",True
+639,26846,"Gonzalez, Morgan and Mullins",False
+640,13715,Hill Inc,True
+641,18436,"Johnson, Torres and Gibson",True
+642,42801,"Smith, Hill and Davis",True
+643,36468,Bryant-Richardson,True
+644,39487,Walker LLC,False
+645,32027,"Brown, Davidson and Nelson",True
+646,36970,Smith-Bryan,True
+647,23633,Tanner-Johnson,True
+648,39736,"Lee, Lopez and Hamilton",True
+649,12445,"Howard, Stevenson and Tucker",False
+650,33323,Figueroa and Sons,True
+651,23268,"Mullins, Ibarra and Rogers",False
+652,28507,Jones Group,True
+653,3389,Hendricks and Sons,True
+654,48689,Green PLC,True
+655,49977,"Schmitt, Mccoy and Diaz",True
+656,47435,Hudson-Hunter,True
+657,18286,Lopez PLC,True
+658,31747,"Anderson, Castaneda and Payne",True
+659,43714,Rogers-Valenzuela,True
+660,16977,"Salazar, Smith and Spencer",False
+661,36894,Mejia-Fletcher,True
+662,4517,"Flowers, Stephenson and Williams",True
+663,4839,Patel Ltd,True
+664,47389,Cooper PLC,False
+665,37798,Bennett-Wade,True
+666,32000,James-Reynolds,True
+667,22365,Wong LLC,True
+668,28144,"Drake, Barber and Martinez",True
+669,10932,Bruce Group,False
+670,38781,"Cain, Moyer and Flores",False
+671,28086,"Mcclure, Dawson and Smith",False
+672,47133,Dawson-Wilson,True
+673,45976,Johnson and Sons,False
+674,46582,Johnson-Romero,True
+675,32235,Fox-Johnson,True
+676,23663,Pugh-Rose,True
+677,47408,Matthews-Butler,True
+678,7523,Martinez and Sons,True
+679,9980,Hopkins-Mejia,False
+680,24312,"Reid, Lawrence and Koch",True
+681,31139,"Webb, Smith and Brewer",True
+682,27451,"Hansen, Hernandez and Greene",True
+683,7851,"Brown, Moses and Mitchell",True
+684,25564,Gonzales and Sons,False
+685,11899,Schmidt-Nelson,True
+686,40065,"Miranda, Vargas and Fernandez",True
+687,36667,Willis-Calhoun,True
+688,24493,Walsh Group,True
+689,14660,Adams-Mitchell,True
+690,29606,Miller Group,True
+691,13419,Beard Inc,False
+692,12421,Hardin-Jacobson,False
+693,21154,"Chung, Jackson and Torres",True
+694,24549,"Coleman, Baker and Miller",True
+695,39010,Garcia PLC,True
+696,37909,"Fisher, Walsh and Davis",False
+697,10464,Hodge-King,False
+698,31966,"Bell, Montgomery and Hartman",False
+699,16984,Sanchez PLC,True
+700,10283,Cook-Long,True
+701,40823,Ward-Gray,True
+702,42278,Li-Moore,False
+703,10620,Allison-Hill,True
+704,47280,Mcguire PLC,True
+705,27513,"Macdonald, Barton and Chandler",True
+706,8851,"Williams, Klein and Morton",True
+707,43695,Cunningham-Payne,True
+708,41972,"Boyd, Salazar and Flores",True
+709,36339,"Rodriguez, Franco and Lewis",True
+710,47524,"Dixon, Weber and Lowe",True
+711,17753,Robinson-Watkins,True
+712,20218,"Cruz, Johnson and Butler",True
+713,49051,Rios PLC,False
+714,42298,Roberts PLC,True
+715,35281,Robinson and Sons,True
+716,14305,"Quinn, Sweeney and Burnett",False
+717,20717,Garcia Ltd,True
+718,30991,Crane-Cooke,True
+719,47387,"Juarez, Kim and Harper",True
+720,9045,Santiago Group,True
+721,21296,"Martinez, Oneal and Ray",True
+722,41968,"Peters, Foley and Brown",True
+723,21194,Scott-Hill,True
+724,19858,Grimes PLC,True
+725,29162,Olson Inc,True
+726,170,Carter-Miller,True
+727,4656,Howard PLC,True
+728,27824,Williams-Morris,True
+729,22260,French-White,True
+730,14459,Adams-Richardson,True
+731,3563,Sheppard PLC,True
+732,29244,Phillips Inc,True
+733,753,"Mercado, Watson and Herrera",True
+734,26957,"Diaz, Smith and Barrera",True
+735,26467,"Mcneil, Rogers and Dunlap",True
+736,37469,"Brooks, Flores and Carrillo",True
+737,22728,"Sanchez, Kaiser and Martinez",True
+738,40173,Shannon-Walker,False
+739,25901,Brown PLC,True
+740,14070,White Group,True
+741,47172,Price-Edwards,True
+742,32743,Fowler-Warren,True
+743,6553,Gonzalez-Pena,True
+744,10248,Combs-Newton,True
+745,9654,"Williams, Allen and Johnson",True
+746,32624,White Ltd,True
+747,31877,Brandt-Mckay,True
+748,49252,"Patterson, Rodriguez and Huffman",True
+749,43019,"Hodges, Greer and Mills",False
+750,15025,Carter PLC,True
+751,11575,Salas Group,True
+752,41339,Stevens PLC,False
+753,3845,Carter PLC,True
+754,49019,"Miller, Hudson and Campbell",True
+755,33061,Wilson Ltd,False
+756,29356,Cunningham-Gutierrez,True
+757,18559,"Kirk, Oneill and Valdez",True
+758,31567,"Powers, Harrison and Lambert",True
+759,26163,"Perry, Turner and James",False
+760,8068,Brooks-Brown,False
+761,32778,Curtis PLC,False
+762,27236,Burns LLC,True
+763,2992,Mcclure LLC,False
+764,26501,"Hobbs, Hill and Campbell",True
+765,41504,"Harrington, Mcpherson and Hansen",True
+766,29426,Hoffman-Crawford,True
+767,5858,Bryan Inc,True
+768,43886,"Smith, Johnson and Wilson",True
+769,38141,Martinez Inc,True
+770,46439,Chandler PLC,True
+771,45972,Colon Inc,True
+772,37910,Montoya and Sons,False
+773,37196,Meyer-Franklin,False
+774,32975,Macdonald Inc,True
+775,8503,Hunt-Lopez,True
+776,48353,Davenport-Harris,True
+777,42053,Mathis-Coleman,True
+778,30463,"Crawford, Weber and Phillips",True
+779,33647,"Morgan, Rogers and Dunn",True
+780,4852,Luna Inc,True
+781,47563,Lynch-Herrera,True
+782,36889,Blackwell-Johnson,False
+783,17428,"Simpson, Flores and Byrd",True
+784,45979,"Gray, Hernandez and Shelton",False
+785,48622,Hughes-Potter,True
+786,7485,"Kelly, Robinson and Fernandez",True
+787,20941,Jimenez-Anderson,True
+788,5251,"Cook, Roberts and Todd",True
+789,43544,Aguilar-Herman,True
+790,17709,Cardenas-Lloyd,False
+791,413,Hansen LLC,True
+792,19908,Horton-Lawrence,True
+793,34637,"Mathews, Dixon and Williams",True
+794,13215,Drake-Brown,True
+795,34855,Thomas LLC,False
+796,43513,"Smith, Bond and Romero",True
+797,24846,Hood-Ward,False
+798,19657,Wilson LLC,False
+799,25275,Aguilar-Drake,True
+800,26879,"Mcbride, Haynes and Mendoza",True
+801,46598,Jones-Moreno,True
+802,8982,Price-Bowers,True
+803,13512,"Robertson, Cummings and Thompson",False
+804,34955,Hughes and Sons,True
+805,29020,"Taylor, Gomez and Heath",False
+806,8951,Juarez LLC,True
+807,1481,Scott-Lopez,True
+808,30571,Ramos LLC,True
+809,8981,White-Phillips,True
+810,32901,Ochoa-Oneill,True
+811,22556,Chambers-Jacobs,False
+812,48553,"Robles, Bentley and Roach",True
+813,21961,"Velasquez, Campbell and Santos",True
+814,42049,Clayton-Terry,True
+815,1394,Williamson-Rivera,True
+816,642,"Nguyen, Thomas and Donaldson",False
+817,6004,Holder-Bailey,True
+818,49256,Bauer PLC,True
+819,3447,Love-Patterson,True
+820,3861,"Roberts, Berger and Martin",True
+821,9878,"Scott, Hawkins and Andrews",True
+822,16388,Cowan-Rivera,True
+823,43501,"Mitchell, Brown and Todd",True
+824,13179,Moreno LLC,True
+825,14974,Mckinney and Sons,True
+826,42357,Mccarty Ltd,True
+827,46025,Munoz PLC,False
+828,45626,"Johnson, Johnson and Mcgee",True
+829,42246,"Le, Woods and Johnson",False
+830,37270,"Diaz, Salas and Bailey",True
+831,28053,Chase Group,True
+832,26378,Walters-Wilson,True
+833,34413,"Mendoza, Green and Taylor",True
+834,10816,Williams Ltd,True
+835,38885,Ramirez-Mcdonald,True
+836,1340,Gonzales Group,True
+837,33009,Sellers Group,False
+838,11236,Carrillo-Smith,False
+839,19842,"Gilbert, Anderson and Schwartz",True
+840,27658,Rodgers and Sons,True
+841,15403,"Hancock, Glover and Fox",False
+842,2390,Garrett PLC,True
+843,16934,Martinez-Page,True
+844,24566,"Eaton, Johnston and Wong",True
+845,46273,Walters-Johnson,True
+846,18870,"Brown, Ortiz and Ayers",False
+847,13586,Smith Ltd,True
+848,14219,Choi Inc,True
+849,15979,Nguyen Ltd,False
+850,26700,Baker Ltd,True
+851,43974,"Wong, Gregory and King",True
+852,40232,"Jackson, Cantu and Wilson",True
+853,10914,"Coleman, Washington and Green",True
+854,3922,Clark-Walker,True
+855,32819,Adams Inc,False
+856,34277,Olson Inc,True
+857,19846,Briggs and Sons,True
+858,3099,"Bowen, Wright and Dennis",True
+859,31939,"Kennedy, Moore and Mcdaniel",True
+860,37946,Dunn-Webb,True
+861,11388,Valdez-Edwards,True
+862,40935,White LLC,True
+863,26617,"Lee, Chapman and Thomas",True
+864,41073,Santiago-Rhodes,False
+865,36036,Gaines-Black,False
+866,34908,"Lopez, Hickman and Clark",True
+867,27097,"Clarke, Valencia and Archer",True
+868,29668,"Hernandez, Lee and Valencia",True
+869,22841,Howard-Small,True
+870,905,Miller-Stewart,True
+871,19869,Cunningham Group,True
+872,28472,"Rivera, Steele and Davis",True
+873,24758,Fisher LLC,True
+874,5520,"Gomez, Dunlap and Schmidt",True
+875,29033,Hill and Sons,False
+876,4396,Steele-Williams,False
+877,33152,Silva Inc,True
+878,22887,Rodriguez Group,True
+879,48094,"Strong, Smith and Ingram",False
+880,10013,Thompson PLC,False
+881,10656,Adams-Ward,True
+882,32146,Burton-Evans,True
+883,34376,Coleman and Sons,False
+884,27145,Nelson Inc,True
+885,47824,"Kirk, Roberts and Medina",False
+886,25313,Romero LLC,True
+887,21905,"Turner, Bryant and Diaz",False
+888,5961,Young-Young,True
+889,28666,Long-Sullivan,True
+890,5940,Morgan-Melton,True
+891,17501,Barnes Ltd,True
+892,16781,"Taylor, Velez and Martin",True
+893,42366,Johnson LLC,True
+894,45442,White PLC,True
+895,19694,Hernandez PLC,True
+896,37511,"Baker, Goodman and Dunn",True
+897,20665,Hurst LLC,True
+898,39439,Wells PLC,True
+899,6316,"Collins, Smith and Fox",True
+900,27547,Henderson-Wilson,True
+901,48090,"Hanna, Ramirez and Mills",True
+902,11438,Harrington-Alvarado,True
+903,43008,Edwards-Ingram,True
+904,26714,Martin-Wright,True
+905,43682,Olson-Garcia,True
+906,2388,Martinez and Sons,True
+907,35318,Estrada Inc,True
+908,23554,Blevins PLC,True
+909,32580,Lucas and Sons,False
+910,49112,Wallace-Washington,False
+911,46998,"Gross, Clark and Hall",True
+912,43662,Watson Ltd,False
+913,49562,Jones PLC,True
+914,26058,Moore Ltd,True
+915,7489,Middleton Group,False
+916,37231,"Ruiz, Delacruz and Sharp",True
+917,4191,Walker Inc,True
+918,537,Cobb-Griffith,False
+919,13738,Hammond Inc,True
+920,40124,"Rice, Smith and Edwards",True
+921,12298,Sandoval Group,True
+922,7821,"Oneal, Rogers and Jones",True
+923,17812,"Hill, Griffin and Wheeler",True
+924,27229,Walker LLC,True
+925,8368,"Garrett, Miller and Hamilton",True
+926,11897,"King, Mitchell and Morgan",False
+927,18650,Little Ltd,True
+928,20033,Lopez-Jones,True
+929,20112,"Jimenez, Swanson and Johnson",True
+930,6582,Blankenship-Kelly,True
+931,37853,Crawford-Pennington,True
+932,31368,"Lee, Mcconnell and Jacobs",True
+933,31131,Peters PLC,False
+934,25995,Fuentes-Mcdowell,True
+935,20958,"Miller, Phelps and Pena",True
+936,10435,Smith Group,True
+937,18366,"Hanna, Davis and Farrell",True
+938,26063,Norris-Wright,False
+939,34781,Castaneda-Perez,False
+940,43275,Wilson PLC,False
+941,6247,Johnson PLC,True
+942,18649,Blake-Mitchell,True
+943,24977,Williamson LLC,True
+944,47286,"Shaffer, Thompson and Holloway",True
+945,15897,Carter-Perez,True
+946,17020,"Murphy, Berry and Wilson",False
+947,48559,"Simpson, Watson and Riddle",True
+948,36123,"Zuniga, Freeman and Barron",False
+949,13540,"Vaughn, Rios and Fox",True
+950,43636,Berry-Stokes,True
+951,41624,"Griffin, Brown and Lawrence",False
+952,25788,"Harris, Adams and Martin",True
+953,17035,Woodard-Guzman,True
+954,2455,Marshall Ltd,False
+955,257,Johnson-Griffin,True
+956,40151,Kramer and Sons,True
+957,23556,"Johnson, Davies and Cortez",True
+958,43166,Jordan-Carter,True
+959,24897,Yu-Johnson,False
+960,6826,Gomez PLC,False
+961,43801,Murphy Group,True
+962,7469,Garcia and Sons,False
+963,17194,Kelly Group,True
+964,46026,Hughes LLC,True
+965,4661,Ward Inc,False
+966,26233,Cook PLC,True
+967,42340,Madden Ltd,True
+968,36532,Williams-Caldwell,True
+969,18927,Smith Inc,True
+970,9810,"Webster, Taylor and Rios",False
+971,31362,"Webster, Thomas and Lowery",True
+972,462,"Welch, Smith and Sullivan",True
+973,12734,Cruz-Jackson,False
+974,36852,Hammond-Liu,True
+975,34726,Carlson and Sons,True
+976,13546,Elliott Inc,True
+977,36528,Roberts Ltd,True
+978,347,Brewer and Sons,True
+979,38574,Garcia-Kim,True
+980,48614,Sanders Group,False
+981,36502,Richardson PLC,True
+982,8211,"Ramirez, Stewart and Dudley",False
+983,24183,Mendez-Smith,True
+984,46107,Callahan-Cortez,True
+985,15028,Robinson and Sons,True
+986,26877,Davis-Allen,True
+987,8194,Larson-Hall,True
+988,49491,"Evans, Coffey and Delgado",True
+989,47566,Munoz-Martinez,True
+990,27844,"Rodriguez, Morris and Garrett",True
+991,41460,"Li, Deleon and Stanton",True
+992,22224,Cain-Allen,True
+993,8827,Lee-Armstrong,True
+994,4358,Morales LLC,True
+995,603,Santiago and Sons,True
+996,3061,Christian-Sullivan,True
+997,15534,Robertson LLC,True
+998,31072,"Torres, Young and Mccarthy",True
+999,42450,Hutchinson and Sons,True
+1000,22040,Wood LLC,True
